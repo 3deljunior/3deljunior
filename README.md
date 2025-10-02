@@ -16,9 +16,19 @@ Hi! I'm **Youssef Adel**, a passionate Computer Engineering & Electronics studen
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
 
 ## 📂 Projects
-- **Kubernetes Ingress Demo**: Multi-service routing with NGINX Ingress controller  
-- **Ansible Automation**: NGINX setup, Jinja2 templating, roles creation, and managing encrypted variables  
-- **Microwave Switch Simulation**: ADS-based design and analysis for wireless transmission applications  
+## 📂 Projects & Hands-on Experience
+
+- **Kubernetes Ingress Demo**:  
+  Multi-service routing using **NGINX Ingress controller** with multiple deployments and services. Configured path-based routing and explored ClusterIP & NodePort communication.
+
+- **Docker Projects**:  
+  Built and optimized **Docker images** using both single-stage and multi-stage builds.
+  
+- **Ansible Automation**:  
+  Developed **playbooks** for server configuration, NGINX setup, Jinja2 templating, role creation, and handling encrypted variables using **Ansible Vault**.
+
+- **Linux System Administration**:  
+  Managed Linux servers, performed user and permission management, automated tasks with shell scripts, and monitored system performance.
 
 ## 📫 Contact Me
 - 📞 Phone: +20 1096047733  
