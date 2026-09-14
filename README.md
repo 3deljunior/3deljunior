@@ -1,6 +1,6 @@
 # Youssef Adel – Aspiring DevOps Engineer
 
-Hi! I'm **Youssef Adel**, a passionate Computer Engineering & Electronics student at **Benha University, Egypt**. I specialize in software engineering, cloud computing, and DevOps practices. I enjoy building reliable, scalable, and automated systems, and I am constantly improving my technical skill set.
+Hi! I'm **Youssef Adel**, a passionate Computer and Communication Engineer. I specialize in software engineering, cloud computing, and DevOps practices. I enjoy building reliable, scalable, and automated systems, and I am constantly improving my technical skill set.
 
 ## 🚀 About Me
 - 🎓 **Education**: Computer Engineering & Electronics, Benha University, Shoubra Faculty of Engineering  
