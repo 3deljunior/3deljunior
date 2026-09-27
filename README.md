@@ -15,7 +15,6 @@ Hi! I'm **Youssef Adel**, a passionate Computer and Communication Engineer. I sp
 - **Version Control & CI/CD**: Git, GitHub, GitLab, CI/CD pipelines  
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
 
-## 📂 Projects
 ## 📂 Projects & Hands-on Experience
 
 - **Kubernetes Ingress Demo**:  
